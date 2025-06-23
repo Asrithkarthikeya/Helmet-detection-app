@@ -24,7 +24,10 @@ This project is a real-time helmet detection system built using [YOLOv5](https:/
 
 ## 📸 Demo Screenshot
 
-![Helmet Detection Screenshot](demo.png) <!-- Optional: Replace with your own screenshot -->
+![Helmet Detection Screenshot](![Screenshot 2025-06-23 155817](https://github.com/user-attachments/assets/cfe619b6-5d75-43fc-bacf-c6c59589beb6)
+)
+
+<!-- Optional: Replace with your own screenshot -->
 
 ---
 
