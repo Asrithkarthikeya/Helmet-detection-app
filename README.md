@@ -31,7 +31,7 @@ This project is a real-time helmet detection system built using [YOLOv5](https:/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Asrithkarthikeya/helmet-detection-app.git
+git clone https://github.com/Asrithkarthikeya/Helmet-Detection-App.git
 cd helmet-detection-app
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py (or) python -m streamlit run app.py
