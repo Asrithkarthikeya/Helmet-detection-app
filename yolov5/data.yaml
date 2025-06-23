@@ -1,0 +1,5 @@
+train: C:/Users/Karthikeya/yolov5/helmat-det/yolo-data/images/train
+val: C:/Users/Karthikeya/yolov5/helmat-det/yolo-data/images/val
+
+nc: 2
+names: ['with_helmet', 'without_helmet']
